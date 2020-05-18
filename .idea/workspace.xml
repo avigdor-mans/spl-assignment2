@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2e7b8f2-51e0-4b9f-9c18-2bdff8227f39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V6PKEcKDemtFXVuFfyCeDcJCc5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/SplAssignment2New" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Runing">
+    <configuration name="MI6Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.application.MI6Runner" />
+      <module name="MI6" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../input201.json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.mics.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MI6tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.MI6tests" />
+      <module name="MI6" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../MI6Tester/jsons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.mics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/usr/lib/jvm/java-1.11.0-openjdk-amd64" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.application.Runing" />
+      <module name="MI6" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../config1.json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.mics.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MI6Runner" />
+      <item itemvalue="Application.Runing" />
+      <item itemvalue="Application.MI6tests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runing" />
+        <item itemvalue="Application.MI6tests" />
+        <item itemvalue="Application.MI6Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2e7b8f2-51e0-4b9f-9c18-2bdff8227f39" name="Default Changelist" comment="" />
+      <created>1576570505249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576570505249</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="800" height="677" key="#Project_Structure" timestamp="1577722593178">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1577722593178" />
+    <state x="726" y="312" width="525" height="483" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1576572187918">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="312" width="525" height="483" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1576572187918" />
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577723141973">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577723141973" />
+    <state x="776" y="260" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1577646529266">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="260" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577646529266" />
+    <state x="834" y="445" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577722736216">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="834" y="445" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577722736216" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577723191079">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1577723191079" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1577723241679">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1576598105785" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577723241679" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1577723241679">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1576598105783" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577723241679" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1577723241679">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1576598105781" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577723241679" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1577723241679">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1576598105784" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577723241679" />
+    <state width="1807" height="131" key="GridCell.Tab.1.bottom" timestamp="1577723241677">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="131" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577723241677" />
+    <state width="1807" height="131" key="GridCell.Tab.1.center" timestamp="1577723241677">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="131" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577723241677" />
+    <state width="1807" height="131" key="GridCell.Tab.1.left" timestamp="1577723241677">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="131" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577723241677" />
+    <state width="1807" height="131" key="GridCell.Tab.1.right" timestamp="1577723241677">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="131" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577723241677" />
+    <state x="526" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1577208049338">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="526" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577208049338" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1577720450606">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="603" y="358" key="com.intellij.ide.util.TipDialog/0.27.1920.988@0.27.1920.988" timestamp="1576671162768" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577720450606" />
+    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1577207938598">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1577207938598" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1577461025985">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1577461025985" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MI6$Runing.ic" NAME="Runing Coverage Results" MODIFIED="1577722937385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bgu.spl.mics.application.*</FILTER>
+    </SUITE>
+  </component>
+</project>
